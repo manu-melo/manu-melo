@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Manu!
 
-<!--
-**manu-melo/manu-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor back-end e entusiasta de dados!
+Nas horas vagas, programo em **wired**, a famosa linguagem dos bastidores do Habbo 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias e Ferramentas
+
+### 💻 Linguagens e Frameworks
+
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python)](https://www.python.org/)
+\[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat\&logo=pandas)]
+\[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat\&logo=numpy)]
+
+### 🗃️ Banco de Dados e Processamento
+
+\[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat\&logo=postgresql)]
+\[![Apache Hadoop](https://img.shields.io/badge/-Hadoop-66ccff?style=flat\&logo=apachehadoop)]
+\[![Apache Spark](https://img.shields.io/badge/-Spark-FDEE21?style=flat\&logo=apachespark)]
+
+### ☁️ Orquestração e Pipelines
+
+\[![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat\&logo=apacheairflow)]
+\[![Databricks](https://img.shields.io/badge/-Databricks-E87722?style=flat\&logo=databricks)]
+\[![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat\&logo=apachekafka)]
+
+### 📒 Ferramentas de Ciência de Dados
+
+\[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat\&logo=jupyter)]
+
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manu-melo)
