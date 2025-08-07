@@ -28,8 +28,3 @@ Nas horas vagas, programo em **wired**, a famosa linguagem dos bastidores do Hab
 ### 📒 Ferramentas de Ciência de Dados
 
 \[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat\&logo=jupyter)]
-
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manu-melo)
